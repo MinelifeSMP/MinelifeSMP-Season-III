@@ -1,2 +1,4 @@
 # Server
-Server Files and data
+contains server files and data such as:
+
+-Playerlist
