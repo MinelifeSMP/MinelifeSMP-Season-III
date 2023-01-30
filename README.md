@@ -1,4 +1,4 @@
 # Server
 contains server files and data such as:
 
--https://github.com/Craemon/Server/blob/main/Playerlist
+-Playerlist - https://github.com/Craemon/Server/blob/main/Playerlist
