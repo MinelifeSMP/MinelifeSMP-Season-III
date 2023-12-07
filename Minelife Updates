@@ -1,9 +1,9 @@
-PROJECT WEEKLY
+Minelife Updates (PROJECT WEEKLY)
 ==============
 
 Week 1:
-Discord Integration
--discord <> minecraft chat
+Discord Integration implemented
+-discord <> Minecraft chat - missing
 -linked roles and teams
 
 Week 2:
@@ -15,13 +15,13 @@ https://modrinth.com/mod/horsebuff
 -kein abbau debuff
 -clientside optional
 
-Week 3:
-Bluemap
--online view
--weekly updates
--realtime players
+  (Week 3:
+  Bluemap
+  -online view
+  -weekly updates
+  -realtime players)
 
-Week 4:
+Week 4: Implemented
 Sit
 https://modrinth.com/mod/polysit
 - sit on stairs and slabs
