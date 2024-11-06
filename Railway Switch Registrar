@@ -1,5 +1,11 @@
 Index - Name - Cordinates - Directions
 
-0001 - Mainstation - 123 78 607 - NE(S)W
-0002 - Canyon - ? - N(E)W
-0003 - Northern Distributor - 123 78 37 - NE(S)W
+0001 - Mainstation - 123 78 607 - NE[S]W
+0002 - Canyon - -210 78 581 - N[E]W
+0003 - Northern Distributor - 123 78 37 - NE[S]W
+0004 - Spawn South - ? - ES[W]
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
